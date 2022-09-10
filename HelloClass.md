@@ -14,7 +14,7 @@
 * One of my favorite cuisines is Hyderabadi Chicken Biryani which is one of the interesting commonalities that bought our group together.
 * Fun Fact - I was a district cricket player in my school days.
 
-### 2. Abhishek Sibi from Delhi, India
+### 2. Abhilash Sibi from Delhi, India
 * He was a Data Engineer and was fascinated with the analytics perspective of the Data Science field. So to explore this he took this program.
 * He too likes biryani specially the Malabar Style Biryani which his Dad prepares.
 * Fun Fact - I can do the impression of Smeagol (Dwarf Like Creature) from Lord of the rings.
