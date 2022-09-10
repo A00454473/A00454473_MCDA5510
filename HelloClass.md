@@ -18,3 +18,14 @@
 * He was a Data Engineer and was fascinated with the analytics perspective of the Data Science field. So to explore this he took this program.
 * He too likes biryani specially the Malabar Style Biryani which his Dad prepares.
 * Fun Fact - I can do the impression of Smeagol (Dwarf Like Creature) from Lord of the rings.
+
+### 3. Sharlene Wadhwa from Pune, India
+* She has always been keen about social issues including mental health and poverty and wanting help solve these issues using technology and bridge the gap between the technical gaps and social problems she hopes to incorporate it into the industry in a way that will help better the world socially. Hence she chose this program.
+* She loves Mutton Biryani and thinks it’s superior to everything. Well Raita is a must or apparantly she will be judging us. 
+* Fun Fact - She knows only a few words of Konkani and they happen to be a song which her grandfather taught and translates to 'give me alcohol'.
+
+### 4. John Alapatt from Coimbatore, India
+* He was a Software Engineer and is looking to transition into a Data Scientist. The MCDA course will help him achieve that by strengthening his foundations in data analysis and teaching him the latest techniques used today.
+* The reason he is in this group is because we all love biriyani. Althoguh he doesn't have a particular style of biriyani that he prefers, he enjoys eating them all.
+* Fun Fact - He gets annoyed when people refer to Vegetable Pulao as Biriyani
+
