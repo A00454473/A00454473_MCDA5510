@@ -10,7 +10,7 @@ namespace Assignment1
         {
             try
             {
-                string Logpath = @"C:\Users\risha\Desktop\ProgAssign1\logs";
+                string Logpath = "..\\..\\..\\..\\logs";
                 string fileName = "log_" + DateTime.Now.ToString("yyyy-MM-dd") + ".txt";
                 FileStream objFilestream = new FileStream(string.Format("{0}\\{1}", Logpath, fileName), FileMode.Append, FileAccess.Write);
                 StreamWriter objStreamWriter = new StreamWriter((Stream)objFilestream);

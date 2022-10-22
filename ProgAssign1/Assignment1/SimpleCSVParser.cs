@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using Assignment1.ProgAssign1;
 using Microsoft.VisualBasic.FileIO;
 
 namespace Assignment1
@@ -16,7 +14,7 @@ namespace Assignment1
             try {
 
                 string[] date_split = fileName.Split("\\");
-                string date = date_split[7] + "/" + date_split[8] + "/" + date_split[9];
+                string date = date_split[4] + "/" + date_split[5] + "/" + date_split[6];
 
                 using (TextFieldParser parser = new TextFieldParser(fileName))
             {
@@ -44,7 +42,7 @@ namespace Assignment1
 
                         if (skip == 0 && is_header == 0)
                         {
-                            using (FileStream fs = new FileStream("C:\\Users\\risha\\Desktop\\ProgAssign1\\Output\\csv_merged.csv", FileMode.Append, FileAccess.Write))
+                            using (FileStream fs = new FileStream("..\\..\\..\\..\\Output\\csv_merged.csv", FileMode.Append, FileAccess.Write))
                             using (StreamWriter sw = new StreamWriter(fs))
                             {
                                 sw.WriteLine(String.Join(",", record) + "," + date);

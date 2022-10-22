@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\risha\\Desktop\\ProgAssign1\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\risha\\Desktop\\SMU\\Term 1\\SoftDev\\A00454473_MCDA5510\\ProgAssign1\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\risha\\Desktop\\ProgAssign1\\Assignment1\\Assignment1.csproj",
+      "projectPath": "C:\\Users\\risha\\Desktop\\SMU\\Term 1\\SoftDev\\A00454473_MCDA5510\\ProgAssign1\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\risha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\risha\\Desktop\\ProgAssign1\\Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\risha\\Desktop\\SMU\\Term 1\\SoftDev\\A00454473_MCDA5510\\ProgAssign1\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\risha\\AppData\\Roaming\\NuGet\\NuGet.Config",

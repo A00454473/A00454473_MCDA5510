@@ -51,7 +51,7 @@ namespace Assignment1.ProgAssign1
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            using (FileStream fs = File.Open("C:\\Users\\risha\\MCDA5510_Assignments\\Assignment1\\Assignment1\\csv_merged.csv", FileMode.Append, FileAccess.Write))
+            using (FileStream fs = File.Open("..\\..\\..\\..\\Output\\csv_merged.csv", FileMode.Append, FileAccess.Write))
             {
                 using (StreamWriter sw = new StreamWriter(fs))
                 {
@@ -61,7 +61,7 @@ namespace Assignment1.ProgAssign1
 
             DirWalker dw = new DirWalker();
 
-            List<string> fileList = dw.walk("C:\\Users\\risha\\Desktop\\ProgAssign1\\Assignment1\\Sample Data");
+            List<string> fileList = dw.walk("..\\..\\..\\Sample Data");
 
             Console.WriteLine(Global.valid_records);
             Console.WriteLine(Global.skipped_records);
