@@ -1,0 +1,4 @@
+Valid Records: 201077
+Skipped Records: 94923
+Total Time: 00:01:03.1545565
+----------------------------------
